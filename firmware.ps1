@@ -1,0 +1,1 @@
+iwr -uri https://new.mirror.lewd.wtf/archive/nintendo/switch/firmware/Firmware%2016.0.3.zip -OutFile .\firmware.zip -UseBasicParsing
